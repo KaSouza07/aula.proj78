@@ -1,0 +1,9 @@
+element.style{
+margin-top: 40px;
+}
+
+
+center{
+    display: block;
+    text-align: -webkit-center;
+}
